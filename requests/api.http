@@ -1,0 +1,6 @@
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+    "longUrl" : "https://www.amazon.in/Low-Price-With-Free-Shipping/bbp?category=/mens&pf_rd_p=73a49aa3-9ca6-414a-ab8f-22de09f9b741&pf_rd_r=JXVH752V2S2Y9M09VZXW"
+}
